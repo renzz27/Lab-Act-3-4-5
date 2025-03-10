@@ -8,5 +8,5 @@ _"Number checker" it will check the number you entred by deviding it by 2 to kno
 https://youtube.com/shorts/oTzKrpN_ru8?si=t1XgkVR7MbXIMeVf
 
 **Lab 5**
-_"Grade assighner" just like the lab 3 it will classify the GRADE in terms of the score you entered. The program will break if you enter an <0-100> score.
+_"Grade assigner" just like the lab 3 it will classify the GRADE in terms of the score you entered. The program will break if you enter an <0-100> score.
 https://youtube.com/shorts/vkv7iW5fkxc?si=71yVDhAIZR4QGJ4L
