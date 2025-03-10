@@ -1,10 +1,10 @@
 # Lab-Act-3-4-5
 **Lab_3**
-_"Age clasifier" from age >0-70>, the program will break if you enterr ann nnegative age.
+_"Age clasifier" from age >0-70>, the program will break if you enterr ann negative age.
 https://youtube.com/shorts/KEN-u3gkuEM?si=TODJ9nw6a8Evjh7J
 
 **Lab 4**
-_"Number checker" it will check the number you entred by deviding it by 2 to know if EVEN and ODD if otherwise
+_"Number checker" it will check the number you entred by dividing it by 2 to know if EVEN and ODD if otherwise
 https://youtube.com/shorts/oTzKrpN_ru8?si=t1XgkVR7MbXIMeVf
 
 **Lab 5**
